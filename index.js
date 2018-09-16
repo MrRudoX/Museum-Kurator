@@ -52,7 +52,9 @@ function myTimer() {
 }
 
 function onDeviceReady(){
-		refreshDeviceList();
+		refreshDeviceList()
+		
+
  }
 
 	 
@@ -98,7 +100,6 @@ function onDiscoverDevice(device){
 		
 		window.open("test1.html");
 		
-
 		}
 	else onDeviceReady();  */
 	
@@ -156,5 +157,3 @@ function onDisconnect(){
 function onError(reason)  {
 	alert("ERROR: " + reason); // real apps should use notification.alert
 }
-
-	
