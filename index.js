@@ -52,9 +52,7 @@ function myTimer() {
 }
 
 function onDeviceReady(){
-		refreshDeviceList()
-		
-
+		refreshDeviceList();
  }
 
 	 
