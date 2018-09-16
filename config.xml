@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="dk.kea.Polaris" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="dk.kea.testfase" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-    <name>Polaris</name>
+    <name>Testfase</name>
     <description>
-       Museum Exploration/Guide
+        A sample app from a phone  BLE hardware.
     </description>
     <author >
          Lone Østerlund based on an example by Don Coleman: 
